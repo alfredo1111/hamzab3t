@@ -1,4 +1,4 @@
-const domain = 'adswizz.com'
+const domain = 'tickmill.com'
 const cookieCount = 40
 const cookieLength = 3000
 const expireAfterMinute = 5
