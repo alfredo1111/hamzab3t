@@ -1,4 +1,4 @@
-const domain = 'tickmill.com'
+const domain = 'versatel.de'
 const cookieCount = 40
 const cookieLength = 3000
 const expireAfterMinute = 5
